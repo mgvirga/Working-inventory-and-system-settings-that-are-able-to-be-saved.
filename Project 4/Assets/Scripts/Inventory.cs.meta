@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 32996e508dccb6e41afc42fd758d8f17
+timeCreated: 1511831418
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Health: {instanceID: 0}
+  - BulletSpawn: {instanceID: 0}
+  - EmptyObject: {fileID: 1941661967713874, guid: 5ef6a9f9017cfad4199b3600264038f6,
+      type: 2}
+  - RedBullet: {fileID: 1547378966369826, guid: 229dfb4225435dc4dab3e69b5470468f,
+      type: 2}
+  - BlueBullet: {fileID: 1663402492233776, guid: 6873a82a5abf37f46a6245eb12c8c644,
+      type: 2}
+  - GreenBullet: {fileID: 1547378966369826, guid: 229dfb4225435dc4dab3e69b5470468f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
